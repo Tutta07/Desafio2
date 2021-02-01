@@ -1,0 +1,16 @@
+/home/volanty/Escritorio/unica/Desafio2/bin/Debug/net5.0/Desafio2
+/home/volanty/Escritorio/unica/Desafio2/bin/Debug/net5.0/Desafio2.deps.json
+/home/volanty/Escritorio/unica/Desafio2/bin/Debug/net5.0/Desafio2.runtimeconfig.json
+/home/volanty/Escritorio/unica/Desafio2/bin/Debug/net5.0/Desafio2.runtimeconfig.dev.json
+/home/volanty/Escritorio/unica/Desafio2/bin/Debug/net5.0/Desafio2.dll
+/home/volanty/Escritorio/unica/Desafio2/bin/Debug/net5.0/ref/Desafio2.dll
+/home/volanty/Escritorio/unica/Desafio2/bin/Debug/net5.0/Desafio2.pdb
+/home/volanty/Escritorio/unica/Desafio2/obj/Debug/net5.0/Desafio2.csprojAssemblyReference.cache
+/home/volanty/Escritorio/unica/Desafio2/obj/Debug/net5.0/Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/volanty/Escritorio/unica/Desafio2/obj/Debug/net5.0/Desafio2.AssemblyInfoInputs.cache
+/home/volanty/Escritorio/unica/Desafio2/obj/Debug/net5.0/Desafio2.AssemblyInfo.cs
+/home/volanty/Escritorio/unica/Desafio2/obj/Debug/net5.0/Desafio2.csproj.CoreCompileInputs.cache
+/home/volanty/Escritorio/unica/Desafio2/obj/Debug/net5.0/Desafio2.dll
+/home/volanty/Escritorio/unica/Desafio2/obj/Debug/net5.0/ref/Desafio2.dll
+/home/volanty/Escritorio/unica/Desafio2/obj/Debug/net5.0/Desafio2.pdb
+/home/volanty/Escritorio/unica/Desafio2/obj/Debug/net5.0/Desafio2.genruntimeconfig.cache
